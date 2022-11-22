@@ -1,0 +1,10 @@
+.main-div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+#results {
+  background-color: pink;
+}
+#specific-result {
+  background-color: aqua;
+}

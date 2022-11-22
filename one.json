@@ -1,0 +1,22 @@
+{
+  "temples": {
+    "item1": {
+      "id": "1",
+      "subname": "temple1"
+    },
+    "item2": {
+      "id": "2",
+      "subname": "temple2"
+    }
+  },
+  "peaks": {
+    "item1": {
+      "id": "3",
+      "subname": "peak1"
+    },
+    "item2": {
+      "id": "4",
+      "subname": "peak2"
+    }
+  }
+}
